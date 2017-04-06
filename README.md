@@ -35,6 +35,6 @@ on a system.
 
 3.15 - SABs do not persist data.
 
-3.16 - NOTE: The ECMAscript spec does not include these sections.
+3.16 - NOTE: The ECMAscript spec does not include a security or privacy section.
 
 3.17 - SABs do not allow downgrading security characteristics.
